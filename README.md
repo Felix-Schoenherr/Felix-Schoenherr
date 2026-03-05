@@ -21,6 +21,7 @@ I write code to help designers bring their ideas to life. There's something deep
 * ☕️ Fuelled by coffee (lots of it).
 * 🏃‍♂️ When not coding, I'm jogging, playing Padel, or traveling.
 * 📫 How to reach me: [felix@schoenherrs.com](mailto:felix@schoenherrs.com)
+* 🖥️ My portfolio Website: [felix.schoenherrs.com](https://felix.schoenherrs.com)
 
 ---
 *“If users can feel and engage with an idea, it reveals the unexpected.”*
